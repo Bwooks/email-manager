@@ -1,0 +1,39 @@
+# Kotlin/Java related
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.zip
+*.tar.gz
+*.rar
+
+# Build directories
+build/
+out/
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# React/node related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+kafka
+scripts
+myenv
+.DS_Store
+.java-version
+.gitattributes
